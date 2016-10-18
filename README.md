@@ -1,2 +1,2 @@
 # customize-oembed-parameters-wordpress
-Customize oEmbed P{arameters in WordPress
+Customize oEmbed Parameters in WordPress
